@@ -5,7 +5,7 @@
 3. Leave no trace.
 ~~~
 
-# CONDITION
+# FILE
 ~~~
 200 "72, 52, 4, 60"
 ~~~
