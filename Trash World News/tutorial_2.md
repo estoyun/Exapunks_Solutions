@@ -1,5 +1,12 @@
 # GOAL
 ~~~
+Add the first two values of file 200,
+multiply the result by the third value,
+and then subtract the fourth value.
+Append the result to the end of the file and then move it to the outbox.
+~~~
+
+~~~
 1. Append the correct value to the end of file 200.
 2. Move file 200 to the outbox.  
 3. Leave no trace.
