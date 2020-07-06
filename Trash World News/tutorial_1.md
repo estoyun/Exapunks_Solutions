@@ -1,5 +1,8 @@
 # GOAL
 ~~~
+Move file 200 to the outbox.
+~~~
+~~~
 1. Move file 200 to the outbox.  
 2. Leave no trace.
 ~~~
