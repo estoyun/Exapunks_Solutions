@@ -4,7 +4,7 @@
 2. Leave no trace.
 ~~~
 
-# CONDITION
+# FILE
 ~~~
 200 "MOVE, THIS, FILE, TO, THE, OUTBOX"
 ~~~
