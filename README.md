@@ -2,6 +2,7 @@
 
 # Exapunks_Solutions
 [![GitHub license](https://img.shields.io/github/license/estoyun/Exapunks_Solutions?style=flat-square)](https://github.com/estoyun/Exapunks_Solutions/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/estoyun/Exapunks_Solutions.svg)](http://hits.dwyl.com/estoyun/Exapunks_Solutions)
 [![GitHub issues](https://img.shields.io/github/issues/estoyun/Exapunks_Solutions?style=flat-square)](https://github.com/estoyun/Exapunks_Solutions/issues)
 [![GitHub stars](https://img.shields.io/github/stars/estoyun/Exapunks_Solutions?style=flat-square)](https://github.com/estoyun/Exapunks_Solutions/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/estoyun/Exapunks_Solutions?style=flat-square)](https://github.com/estoyun/Exapunks_Solutions/network)  
