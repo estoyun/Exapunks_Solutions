@@ -10,3 +10,6 @@
 
 두뇌고문 전문회사 Zachtronics의 Exapunks 도전기  
 https://store.steampowered.com/app/716490/EXAPUNKS/
+
+## 참고 사이트
+📙 [Exapunks 나무위키](https://namu.wiki/w/EXAPUNKS) 
