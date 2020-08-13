@@ -1,7 +1,7 @@
 # GOAL
 ~~~
-Read a value from the nerve connected to your central nervous system (CNS)
-and relay it to the nerve connected to your arm (ARM),
+Read a value from the nerve connected to your central nervous system(CNS)
+and relay it to the nerve connected to your arm(ARM),
 clamping* the value so that it never goes below -120 or above 50.
 Repeat ad infinitum*.
 
